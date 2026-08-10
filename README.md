@@ -1,7 +1,7 @@
 1️⃣ Program 1:
 Write a program to print your name.
 
-public class my_name {
+    public class my_name {
     public static void main(String[] args) {
         System.out.println("HARSH GAJANAN KUBADE");
     }
@@ -13,7 +13,7 @@ Write a program to take *your name and age as input from the user* and print the
 
 import java.util.Scanner;
 
-public class Main {
+    public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
