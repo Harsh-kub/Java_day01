@@ -9,7 +9,7 @@ Write a program to print your name.
 
 
 2️⃣ Program 2:
-Write a program to take *your name and age as input from the user* and print them.
+Write a program to take *your name and age as input from the user* and print them..
 
     import java.util.Scanner;
 
